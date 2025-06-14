@@ -2,13 +2,6 @@
 
 This is a simple Spotify Clone built using HTML and CSS. The project replicates the visual layout and styling of the Spotify web app. It is a static frontend project aimed at practicing layout design, responsiveness, and modern UI techniques without any backend or JavaScript.
 
-## Screenshots
-
-"C:\Users\Vishnu\Pictures\Screenshots\Screenshot 2025-06-12 214825.png"
-![Screenshot 2](./assets/screenshots/screenshot2.png)
-
-Note: Replace the image paths above with your actual screenshot file paths.
-
 ## Features
 
 - Responsive layout inspired by Spotify Web Player
